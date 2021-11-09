@@ -1,0 +1,192 @@
+1635750397105	geckodriver	INFO	Listening on 127.0.0.1:50853
+1635750397904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyvqH7C"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1635750398795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyvqH7C/search.json.mozlz4", (void 0)))
+1635750401038	Marionette	INFO	Listening on port 45259
+1635750401153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635750419458	Marionette	INFO	Stopped listening on port 45259
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635750438540	geckodriver	INFO	Listening on 127.0.0.1:38427
+1635750439417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSgGaok"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1635750440087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSgGaok/search.json.mozlz4", (void 0)))
+1635750441803	Marionette	INFO	Listening on port 33285
+1635750441879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635750455551	Marionette	INFO	Stopped listening on port 33285
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635754487251	geckodriver	INFO	Listening on 127.0.0.1:36673
+1635754488207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileO0tt7l"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1635754488936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO0tt7l/search.json.mozlz4", (void 0)))
+1635754490534	Marionette	INFO	Listening on port 43745
+1635754490631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635754503725	Marionette	INFO	Stopped listening on port 43745
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635755207992	geckodriver	INFO	Listening on 127.0.0.1:34619
+1635755208929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemdI9Rg"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1635755209602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemdI9Rg/search.json.mozlz4", (void 0)))
+1635755211137	Marionette	INFO	Listening on port 36793
+1635755211172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635755214673	Marionette	INFO	Stopped listening on port 36793
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635761528794	geckodriver	INFO	Listening on 127.0.0.1:32841
+1635761529712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXmcZGg"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1635761530614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXmcZGg/search.json.mozlz4", (void 0)))
+1635761532684	Marionette	INFO	Listening on port 41607
+1635761532754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51106gSDnJL.js,11UEXQOFCsL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21SDJtBU-PL.js,11rRjDLdAVL.js,51H19hJRYrL.js,11kWu3cNjYL.js,11g2BPXNlrL.js,11OREnu1epL.js,11wcWdhrnDL.js,21r53SJg7LL.js,0190vxtlzcL.js,511VNbag2QL.js,31NShmNbJyL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11+RxVdhNcL.js,31o2NGTXThL.js,01rpauTep4L.js,01rvjRKHRNL.js_.js?AUIClients/AmazonUI&gOUTNJqP#page_type-Detail.372963-T1.354901-T1.351411-T1, line 16: NS_ERROR_NOT_INITIALIZED: 
+1635761534345	Marionette	INFO	Stopped listening on port 41607
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172143516	geckodriver	INFO	Listening on 127.0.0.1:46191
+1636172144441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTbN2ko"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172145162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTbN2ko/search.json.mozlz4", (void 0)))
+1636172147127	Marionette	INFO	Listening on port 46407
+1636172147196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172198966	Marionette	INFO	Stopped listening on port 46407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636172201897	geckodriver	INFO	Listening on 127.0.0.1:40865
+1636172202808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNBzlje"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172203562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNBzlje/search.json.mozlz4", (void 0)))
+1636172205294	Marionette	INFO	Listening on port 41603
+1636172205372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172263250	geckodriver	INFO	Listening on 127.0.0.1:36629
+1636172264217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemHSss9"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172264913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemHSss9/search.json.mozlz4", (void 0)))
+1636172266628	Marionette	INFO	Listening on port 37235
+1636172266689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172281946	Marionette	INFO	Stopped listening on port 37235
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636172285242	Marionette	INFO	Stopped listening on port 41603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172359152	geckodriver	INFO	Listening on 127.0.0.1:49735
+1636172360102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletO37WO"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172360779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletO37WO/search.json.mozlz4", (void 0)))
+1636172362513	Marionette	INFO	Listening on port 38973
+1636172362634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172378392	Marionette	INFO	Stopped listening on port 38973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172403474	geckodriver	INFO	Listening on 127.0.0.1:55325
+1636172404383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledmBCZP"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172405027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledmBCZP/search.json.mozlz4", (void 0)))
+1636172407674	Marionette	INFO	Listening on port 40211
+1636172408564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172669771	geckodriver	INFO	Listening on 127.0.0.1:43389
+1636172670731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepY9GBT"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172671508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepY9GBT/search.json.mozlz4", (void 0)))
+1636172673492	Marionette	INFO	Listening on port 44981
+1636172673563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+1636172751577	geckodriver	INFO	Listening on 127.0.0.1:47723
+1636172752532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4V5G1E"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172753249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4V5G1E/search.json.mozlz4", (void 0)))
+1636172754744	Marionette	INFO	Listening on port 43439
+1636172754857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172795943	Marionette	INFO	Stopped listening on port 43439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172799654	Marionette	INFO	Stopped listening on port 44981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19174, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172803772	Marionette	INFO	Stopped listening on port 40211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636172830432	geckodriver	INFO	Listening on 127.0.0.1:43211
+1636172831377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehhWSYb"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172832012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehhWSYb/search.json.mozlz4", (void 0)))
+1636172833886	Marionette	INFO	Listening on port 43055
+1636172833940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636172874991	Marionette	INFO	Stopped listening on port 43055
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636172878594	geckodriver	INFO	Listening on 127.0.0.1:43741
+1636172879549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVjoL7Y"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1636172880190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVjoL7Y/search.json.mozlz4", (void 0)))
+1636172882056	Marionette	INFO	Listening on port 40611
+1636172882745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.kabum.com.br/produto/184927/notebook-acer-aspire-5-intel-core-i5-10210u-4gb-ram-ssd-256gb-15-6-full-hd-linux-endless-prata-a515-54-5526?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFyGxUrvsdrfl4nP_TBzoeSFQlByWoYqtpuJQn6xzOU8-y7BR3Ib38aAjm2EALw_wcB line 440 > injectedScript, line 1: ReferenceError: _etmc is not defined
+1636173057125	Marionette	INFO	Stopped listening on port 40611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

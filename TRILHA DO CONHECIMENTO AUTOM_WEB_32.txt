@@ -1,0 +1,61 @@
+Unica maneira que encontrei de fazer o Google Chrome Funcionar Com Selenium WebDriver no Linux
+
+
+
+
+import os
+from selenium import webdriver
+
+chromedriver = "/usr/local/bin/chromedriver"
+os.environ["webdriver.chrome.driver"] = chromedriver
+driver = webdriver.Chrome(chromedriver)
+#driver.get("http://stackoverflow.com")
+driver.get('https://www.amazon.com/amazon-fire-tv-50-inch-4-series-4k-smart-tv/dp/B08SVZ775L/ref=sr_1_1_sspa?dchild=1&keywords=smart+tv&qid=1635754375&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyN0lXUlY3MkxTVURLJmVuY3J5cHRlZElkPUEwMTkwNTkxMUFSMUREOUU3TEsxNCZlbmNyeXB0ZWRBZElkPUEwNDcxNzUyM0gyNE81OE9DTldTWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=')
+#driver.quit()
+
+
+
+O binário que deve ser usado (Que fica na pasta /usr/bin	É um que, se aberto no trminal
+usando ./google-chrome  , abre o Chrome Transparente/Esquisito. Se apontar para o original da 
+pasta /opt/google , não funicona. É estranho, ma sé assim. 
+
+
+
+
+FONTE:
+https://qastack.com.br/programming/8255929/running-selenium-webdriver-python-bindings-in-chrome
+
+
+
+CODIGO ORIGINAL (para Windows):
+
+import os
+from selenium import webdriver
+
+chromedriver = "/Users/adam/Downloads/chromedriver"
+os.environ["webdriver.chrome.driver"] = chromedriver
+driver = webdriver.Chrome(chromedriver)
+driver.get("http://stackoverflow.com")
+driver.quit()
+
+
+
+____________________________________________________________________________________
+
+
+Para abrir uma aba:
+
+driver.execute_script("window.open('');")
+
+
+
+Para mudar de aba:
+
+driver.switch_to.window(driver.window_handles[1])
+
+
+
+Para ir para uma URL:
+
+driver.get(url)
+
